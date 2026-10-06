@@ -1,3 +1,3 @@
 # Git Branch Demo
 
-Project Status: Feature branch update
+Project Status: Main branch update
